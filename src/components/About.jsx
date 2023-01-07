@@ -14,23 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        In Kali Linux or RedHat Linux able to write scripts in bash and python to automate tasks, or to write scripts to scan a webserver to check for vulnerability's. Able to conduct penetration testing using Burp suite, metasploit, Hydra and immunity debugger. Able to scan the network using Nmap, Nessus, Nikto. In Python able to automate common system administration tasks, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud. 
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        Bringing an in-depth understanding of how to configure devices, networks and operating systems. History of maintaining equipment, updating software and handling network security with an organized and systematic focus. Strong multitasker with excellent communication and planning abilities. Adaptable and driven with strong work ethic and ability to thrive in team-based. Multilingual and fluent in Spanish and English, offering solid comprehension of cultural diversity.
         </p>
       </div>
     </div>
