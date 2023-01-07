@@ -13,7 +13,7 @@ const Home = () => {
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             Hi Im Ryan David 
-            I'm a Full Stack Developer
+            I'm a Security Analyst and System Administrator.
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
           Motivated Junior Security Analyst and System Administration graduate. I completed a Network Administration and Information Security associate degree in Laguardia Community college. Finish 2 Certificate's with Google and IBM in System Administration.
