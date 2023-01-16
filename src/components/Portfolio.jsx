@@ -1,8 +1,8 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
+import airbnb1 from "../assets/portfolio/airbnbclone.webp";
 import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
+import twitter from "../assets/portfolio/twitter1.jpg";
+import reddit1 from "../assets/portfolio/reddit.png";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
@@ -10,15 +10,15 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: twitter,
     },
     {
       id: 2,
-      src: reactParallax,
+      src: reddit1,
     },
     {
       id: 3,
-      src: navbar,
+      src: airbnb1,
     },
     {
       id: 4,
@@ -56,9 +56,11 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
+                <a href="https://twitter-3-clone.vercel.app/" >
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Demo
+                  Demo Clone
                 </button>
+                </a>
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Code
                 </button>

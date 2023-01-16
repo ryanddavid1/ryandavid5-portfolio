@@ -4,10 +4,12 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
-import graphql from "../assets/graphql.png";
+import Python1 from "../assets/Python-Symbol.png";
+import mysql from "../assets/mysql.avif";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import aws from "../assets/AWS.png"
+import kali from "../assets/kali_linux.png"
 
 const Experience = () => {
   const techs = [
@@ -43,20 +45,32 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: nextjs,
-      title: "Next JS",
+      src: Python1,
+      title: "Python Scripts",
       style: "shadow-white",
     },
     {
       id: 7,
-      src: graphql,
-      title: "GraphQL",
+      src: mysql,
+      title: "MySQL",
       style: "shadow-pink-400",
     },
     {
       id: 8,
       src: github,
       title: "GitHub",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 9,
+      src: aws,
+      title: "AWS",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 10,
+      src: kali,
+      title: "Kali Linux",
       style: "shadow-gray-400",
     },
   ];
